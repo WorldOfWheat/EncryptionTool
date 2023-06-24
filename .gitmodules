@@ -1,0 +1,6 @@
+[submodule "bc-csharp"]
+	path = bc-csharp
+	url = https://github.com/bcgit/bc-csharp.git
+[submodule "EncryptionPackage"]
+	path = EncryptionPackage
+	url = git@github.com:WorldOfWheat/EncryptionPackage.git
